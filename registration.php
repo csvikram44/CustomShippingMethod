@@ -1,12 +1,10 @@
-
-
 <?php
 
 use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'CsVikram_CustomShipping',
+    'APMods_FreeShippingAdmin',
     __DIR__
 );
 
